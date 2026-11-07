@@ -1,0 +1,4 @@
+faster-whisper
+langchain
+pydub
+python-dotenv
